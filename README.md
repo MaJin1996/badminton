@@ -54,7 +54,7 @@ Feb. 14|2h(LongQix3)|Shuang, Tianye, Shengyan, Liulei, Jingxian, Sunan, Malong, 
 Feb. 21|2h(LongQix3)|Shuang, Tianye, Liulei, , Songtao, Jingxian, Sunan, Zouye, Wangbingjie, Wangjingyu, Xuchenyuan, Liuzuoyu, Yihuaike, Wind|233/12|5.0(ball)|
 Feb. 28|2h(LongQix2.5)|Shuang, Tianye, Liulei, , Songtao, Jingxian, Sunan, Zouye, Wangbingjie, Wangjingyu, Xuchenyuan, Liuzuoyu, Yihuaike|194/12|5.0(ball)|
 Mar. 7|2h(LongQix2)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, Liuzuoyu, Xudong|141/9|5.0(ball)|
-Mar. 14|2h(LongQix3)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, Liuzuoyu, Xudong, yihuaike, Fulidan, Wangjingyu, Xuchenyuan, Majing, Shengyan|211/15|5.0(ball)|
+Mar. 14|2h(LongQix3)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, Liuzuoyu, Xudong, yihuaike, Fulidan, Wangjingyu, Xuchenyuan, Majin, Shengyan|211/15|5.0(ball)|
 Mar. 21|2h(LongQix2)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, Liuzuoyu, Wangjingyu, Mei, Xiong, Liangbo|141/12|5.0(ball)|
 Mar. 28|2h(LongQix3)|Shuang, Tianye, Liulei, Songtao, Sunan, Zouye, Wangbinjie, Liuzuoyu, Wangjingyu, Xuchenyuan, Wind, Xiong, Liangbo, Liyaolin|211/14|5.0(ball)|
 
@@ -668,7 +668,7 @@ Feb 14|24|-24
 Feb 28|21|-45
 Mar 14|20|-65
 
-Majing
+Majin
 
 Date|Event/Fee|Balance
 ----|---------|-------
